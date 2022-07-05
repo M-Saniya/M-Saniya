@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Analytics domain.
 - 🌱 I’m currently studying Masters in Data Science and Analytics.
 - 💞️ I’m looking to collaborate on ML Algorithms and Dataset case studies.
-- 📫 Here is my linkedIn profile https://www.linkedin.com/in/saniya-momin-1823b2151/
+- 📫 Here is my linkedIn profile https://www.linkedin.com/in/saniya-momin/
 
 <!---
 M-Saniya/M-Saniya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
